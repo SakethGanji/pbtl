@@ -1,0 +1,1545 @@
+Move Name,Power,Accuracy,type,move_description
+pound,40,100,1,Inflicts regular damage.
+karate-chop,50,100,2,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+double-slap,15,85,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+comet-punch,18,85,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+mega-punch,80,85,1,Inflicts regular damage.
+pay-day,40,100,1,"Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used."
+fire-punch,75,100,10,Inflicts regular damage.  Has a 10% chance to burn the target.
+ice-punch,75,100,15,Inflicts regular damage.  Has a 10% chance to freeze the target.
+thunder-punch,75,100,13,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+scratch,40,100,1,Inflicts regular damage.
+vice-grip,55,100,1,Inflicts regular damage.
+guillotine,,30,1,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+razor-wind,80,100,1,"Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.
+
+This move cannot be selected by sleep talk."
+swords-dance,,,1,Raises the user's Attack by two stages.
+cut,50,95,1,Inflicts regular damage.
+gust,40,100,3,"Inflicts regular damage.
+
+If the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."
+wing-attack,60,100,3,Inflicts regular damage.
+whirlwind,,,1,"Switches the target out for another of its trainer's Pok�mon selected at random.  Wild battles end immediately.
+
+Doesn't affect Pok�mon with suction cups or under the effect of ingrain."
+fly,90,95,3,"Inflicts regular damage.  User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind still hit the user normally.  gust and twister also have double power against the user.
+
+The damage from hail and sandstorm still applies during the immune turn.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk."
+bind,15,85,1,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+slam,80,75,1,Inflicts regular damage.
+vine-whip,45,100,12,Inflicts regular damage.
+stomp,65,100,1,"Inflicts regular damage.  Has a 30% chance to make the target flinch.
+
+Power is doubled against Pok�mon that have used minimize since entering the field."
+double-kick,30,100,2,Inflicts regular damage.  Hits twice in one turn.
+mega-kick,120,75,1,Inflicts regular damage.
+jump-kick,100,95,2,"Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.
+
+This move cannot be used while gravity is in effect."
+rolling-kick,60,85,2,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+sand-attack,,100,5,Lowers the target's accuracy by one stage.
+headbutt,70,100,1,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+horn-attack,65,100,1,Inflicts regular damage.
+fury-attack,15,85,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+horn-drill,,30,1,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+tackle,40,100,1,Inflicts regular damage.
+body-slam,85,100,1,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+wrap,15,90,1,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+take-down,90,85,1,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+thrash,120,100,1,"Inflicts regular damage.  User is forced to attack with this move for 2�3 turns,selected at random.  After the last hit, the user becomes confused.
+
+safeguard does not protect against the confusion from this move."
+double-edge,120,100,1,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+tail-whip,,100,1,Lowers the target's Defense by one stage.
+poison-sting,15,100,4,Inflicts regular damage.  Has a 30% chance to poison the target.
+twineedle,25,100,7,Inflicts regular damage.  Hits twice in the same turn.  Has a 20% chance to poison the target.
+pin-missile,25,95,7,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+leer,,100,1,Lowers the target's Defense by one stage.
+bite,60,100,17,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+growl,,100,1,Lowers the target's Attack by one stage.
+roar,,,1,"Switches the target out for another of its trainer's Pok�mon selected at random.  Wild battles end immediately.
+
+Doesn't affect Pok�mon with suction cups or under the effect of ingrain."
+sing,,55,1,Puts the target to sleep.
+supersonic,,55,1,Confuses the target.
+sonic-boom,,90,1,Inflicts exactly 20 damage.
+disable,,100,1,"Disables the target's last used move, preventing its use for 4�7 turns, selected at random, or until the target leaves the field.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed,  if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail."
+acid,40,100,4,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+ember,40,100,10,Inflicts regular damage.  Has a 10% chance to burn the target.
+flamethrower,90,100,10,Inflicts regular damage.  Has a 10% chance to burn the target.
+mist,,,15,"Pok�mon on the user's side of the field are immune to stat-lowering effects for five turns.
+
+guard swap, heart swap, and power swap may still be used.
+
+defog used by an opponent will end this effect."
+water-gun,40,100,11,Inflicts regular damage.
+hydro-pump,110,80,11,Inflicts regular damage.
+surf,90,100,11,"Inflicts regular damage.
+
+If the target is in the first turn of dive, this move will hit with double power."
+ice-beam,90,100,15,Inflicts regular damage.  Has a 10% chance to freeze the target.
+blizzard,110,70,15,"Inflicts regular damage.  Has a 10% chance to freeze the target.
+
+During hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect."
+psybeam,65,100,14,Inflicts regular damage.  Has a 10% chance to confuse the target.
+bubble-beam,65,100,11,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+aurora-beam,65,100,15,Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.
+hyper-beam,150,90,1,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+peck,35,100,3,Inflicts regular damage.
+drill-peck,80,100,3,Inflicts regular damage.
+submission,80,80,2,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+low-kick,,100,2,"Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.
+
+Target's weight | Power
+--------------- | ----:
+Up to 10kg      |    20
+Up to 25kg      |    40
+Up to 50kg      |    60
+Up to 100kg     |    80
+Up to 200kg     |   100
+Above 200kg     |   120
+"
+counter,,100,2,"Targets the last opposing Pok�mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+seismic-toss,,100,2,"Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+strength,80,100,1,Inflicts regular damage.
+absorb,20,100,12,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+mega-drain,40,100,12,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+leech-seed,,90,12,"Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.  Has no effect on grass Pok�mon.  The seed remains until the target leaves the field.
+
+The user takes damage instead of being healed if the target has liquid ooze.
+
+rapid spin will remove this effect.
+
+This effect is passed on by baton pass."
+growth,,,1,"Raises the user's Attack and Special Attack by one stage each.  During sunny day, raises both stats by two stages."
+razor-leaf,55,95,12,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+solar-beam,120,100,12,"Inflicts regular damage.  User charges for one turn before attacking.
+
+During sunny day, the charge turn is skipped.
+
+During hail, rain dance, or sandstorm, power is halved.
+
+This move cannot be selected by sleep talk."
+poison-powder,,75,4,Poisons the target.
+stun-spore,,75,12,Paralyzes the target.
+sleep-powder,,75,12,Puts the target to sleep.
+petal-dance,120,100,12,"Inflicts regular damage.  User is forced to attack with this move for 2�3 turns,selected at random.  After the last hit, the user becomes confused.
+
+safeguard does not protect against the confusion from this move."
+string-shot,,95,7,Lowers the target's Speed by two stages.
+dragon-rage,,100,16,Inflicts exactly 40 damage.
+fire-spin,35,85,10,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+thunder-shock,40,100,13,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+thunderbolt,90,100,13,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+thunder-wave,,90,13,Paralyzes the target.
+thunder,110,70,13,"Inflicts regular damage.  Has a 30% chance to paralyze the target.
+
+During rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.
+
+During sunny day, this move has 50% accuracy."
+rock-throw,50,90,6,Inflicts regular damage.
+earthquake,100,100,5,"Inflicts regular damage.
+
+If the target is in the first turn of dig, this move will hit with double power."
+fissure,,30,5,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+dig,80,100,5,"Inflicts regular damage.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, earthquake, fissure, and magnitude still hit the user normally, and their power is doubled if appropriate.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be selected by sleep talk."
+toxic,,90,4,Badly poisons the target.  Never misses when used by a poison-type Pok�mon.
+confusion,50,100,14,Inflicts regular damage.  Has a 10% chance to confuse the target.
+psychic,90,100,14,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+hypnosis,,60,14,Puts the target to sleep.
+meditate,,,14,Raises the user's Attack by one stage.
+agility,,,14,Raises the user's Speed by two stages.
+quick-attack,40,100,1,Inflicts regular damage.
+rage,20,100,1,"Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage."
+teleport,,,14,Does nothing.  Wild battles end immediately.
+night-shade,,100,8,"Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+mimic,,,1,"This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.
+
+If chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore."
+screech,,85,1,Lowers the target's Defense by two stages.
+double-team,,,1,Raises the user's evasion by one stage.
+recover,,,1,Heals the user for half its max HP.
+harden,,,1,Raises the user's Defense by one stage.
+minimize,,,1,"Raises the user's evasion by two stages.
+
+stomp and steamroller have double power against Pok�mon that have used this move since entering the field."
+smokescreen,,100,1,Lowers the target's accuracy by one stage.
+confuse-ray,,100,8,Confuses the target.
+withdraw,,,11,Raises the user's Defense by one stage.
+defense-curl,,,1,"Raises user's Defense by one stage.
+
+After this move is used, the power of ice ball and rollout are doubled until the user leaves the field."
+barrier,,,14,Raises the user's Defense by two stages.
+light-screen,,,14,"Erects a barrier around the user's side of the field that reduces damage from special attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.
+
+If the user is holding light clay, the barrier lasts for eight turns.
+
+brick break or defog used by an opponent will destroy the barrier."
+haze,,,15,"Removes stat, accuracy, and evasion modifiers from every Pok�mon on the field.
+
+This does not count as a stat reduction for the purposes of clear body or white smoke."
+reflect,,,14,"Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.
+
+If the user is holding light clay, the barrier lasts for eight turns.
+
+brick break or defog used by an opponent will destroy the barrier."
+focus-energy,,,1,"User's critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field, this move will fail.
+
+This effect is passed on by baton pass."
+bide,,,1,"User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pok�mon to hit it.  Damage inflicted is typeless.
+
+This move cannot be selected by sleep talk."
+metronome,,,1,"Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, assist, chatter, copycat, counter, covet, destiny bond, detect, endure, feint, focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, protect, quick guard, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, and wide guard will not be selected by this move.
+
+This move cannot be copied by mimic or mirror move, nor selected by assist, metronome, or sleep talk."
+mirror-move,,,3,"Uses the last move targeted at the user by a Pok�mon still on the field.  A move counts as targeting the user even if it hit multiple Pok�mon, as long as the user was one of them; however, moves targeting the field itself do not count.  If the user has not been targeted by an appropriate move since entering the field, or if no Pok�mon that targeted the user remains on the field, this move will fail.
+
+Moves that failed, missed, had no effect, or were blocked are still copied.
+
+Assist moves, time-delayed moves, �meta� moves that operate on other moves/Pok�mon/abilities, and some other special moves cannot be copied and are ignored; if the last move to hit the user was such a move, the previous move will be used instead.  The full list of ignored moves is: acid armor, acupressure, after you, agility, ally switch, amnesia, aqua ring, aromatherapy, aromatic mist, assist, autotomize, barrier, baton pass, belch, belly drum, bide, bulk up, calm mind, camouflage, celebrate, charge, coil, conversion, conversion 2, copycat, cosmic power, cotton guard, counter, crafty shield, curse, defend order, defense curl, destiny bond, detect, doom desire, double team, dragon dance, electric terrain, endure, final gambit, flower shield, focus energy, focus punch, follow me, future sight, geomancy, grassy terrain, gravity, growth, grudge, guard split, hail, happy hour, harden, haze, heal bell, heal order, heal pulse, healing wish, helping hand, hold hands, hone claws, howl, imprison, ingrain, ion deluge, iron defense, kings shield, light screen, lucky chant, lunar dance, magic coat, magnet rise, magnetic flux, mat block, me first, meditate, metronome, milk drink, mimic, minimize, mirror coat, mirror move, mist, misty terrain, moonlight, morning sun, mud sport, nasty plot, nature power, perish song, power split, power trick, protect, psych up, quick guard, quiver dance, rage powder, rain dance, recover, recycle, reflect, reflect type, refresh, rest, rock polish, role play, roost, rototiller, safeguard, sandstorm, shadow blast, shadow bolt, shadow half, shadow rush, shadow shed, shadow sky, shadow storm, shadow wave, sharpen, shell smash, shift gear, sketch, slack off, sleep talk, snatch, soft boiled, spikes, spiky shield, spit up, splash, stealth rock, sticky web, stockpile, struggle, substitute, sunny day, swallow, swords dance, synthesis, tail glow, tailwind, teleport, toxic spikes, transform, water sport, wide guard, wish, withdraw and work up.
+
+This move cannot be selected by assist, metronome, or sleep talk, nor forced by encore."
+self-destruct,200,100,1,"User faints, even if the attack fails or misses.  Inflicts regular damage."
+egg-bomb,100,75,1,Inflicts regular damage.
+lick,30,100,8,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+smog,30,70,4,Inflicts regular damage.  Has a 40% chance to poison the target.
+sludge,65,100,4,Inflicts regular damage.  Has a 30% chance to poison the target.
+bone-club,65,85,5,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+fire-blast,110,85,10,Inflicts regular damage.  Has a 10% chance to burn the target.
+waterfall,80,100,11,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+clamp,35,85,11,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+swift,60,,1,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+skull-bash,130,100,1,"Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.
+
+This move cannot be selected by sleep talk."
+spike-cannon,20,100,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+constrict,10,100,1,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+amnesia,,,14,Raises the user's Special Defense by two stages.
+kinesis,,80,14,Lowers the target's accuracy by one stage.
+soft-boiled,,,1,Heals the user for half its max HP.
+high-jump-kick,130,90,2,"Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.
+
+This move cannot be used while gravity is in effect."
+glare,,100,1,Paralyzes the target.
+dream-eater,100,100,14,Fails if not used on a sleeping Pok�mon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+poison-gas,,90,4,Poisons the target.
+barrage,15,85,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+leech-life,80,100,7,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+lovely-kiss,,75,1,Puts the target to sleep.
+sky-attack,140,90,3,"Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a 30% chance to make the target flinch.
+
+This move cannot be selected by sleep talk."
+transform,,,1,"User copies the target's species, weight, type, ability, calculated stats (except HP), and moves.  Copied moves will all have 5 PP remaining.  IVs are copied for the purposes of hidden power, but stats are not recalculated.
+
+choice band, choice scarf, and choice specs stay in effect, and the user must select a new move.
+
+This move cannot be copied by mirror move, nor forced by encore."
+bubble,40,100,11,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+dizzy-punch,70,100,1,Inflicts regular damage.  Has a 20% chance to confuse the target.
+spore,,100,12,Puts the target to sleep.
+flash,,100,1,Lowers the target's accuracy by one stage.
+psywave,,100,14,"Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%."
+splash,,,1,"Does nothing.
+
+This move cannot be used while gravity is in effect."
+acid-armor,,,4,Raises the user's Defense by two stages.
+crabhammer,100,90,11,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+explosion,250,100,1,"User faints, even if the attack fails or misses.  Inflicts regular damage."
+fury-swipes,18,80,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+bonemerang,50,90,5,Inflicts regular damage.  Hits twice in one turn.
+rest,,,14,"User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.
+
+This move fails if the Pok�mon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pok�mon is at full health or is already asleep."
+rock-slide,75,90,6,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+hyper-fang,80,90,1,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+sharpen,,,1,Raises the user's Attack by one stage.
+conversion,,,1,"User's type changes to the type of one of its moves, selected at random.  hidden power and weather ball are treated as normal.  Only moves with a different type are eligible, and curse is never eligible.  If the user has no suitable moves, this move will fail."
+tri-attack,80,100,1,"Inflicts regular damage.  Has a 20% chance to burn, freeze, or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur."
+super-fang,,90,1,Inflicts typeless damage equal to half the target's remaining HP.
+slash,70,100,1,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+substitute,,,1,"Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field, the doll will vanish.  If the user cannot pay the HP cost, this move will fail.
+
+The doll takes damage as normal, using the user's stats and types, and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.
+
+The doll will block major status effects, confusion, and flinching.  The effects of smelling salts and wake up slap do not trigger against a doll, even if the Pok�mon behind the doll has the appropriate major status effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage, but the multi-turn trapping and damage effects will not activate.
+
+Moves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such, e.g., avalanche, counter, or a rowap berry.  magic coat still works as normal, even against moves the doll would block.  Opposing Pok�mon that damage the doll with a leech move like absorb are healed as normal.
+
+It will also block acupressure, block, the curse effect of curse, dream eater, embargo, flatter, gastro acid, grudge, heal block, leech seed, lock on, mean look, mimic, mind reader, nightmare, pain split, psycho shift, spider web, sketch, swagger, switcheroo, trick, worry seed, and yawn.  A Pok�mon affected by yawn before summoning the doll will still fall to sleep.
+
+The doll blocks intimidate, but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt absorb absorbing thunder wave), such moves will not be blocked.
+
+life orb and berries that cause confusion still work as normal, but their respective HP loss and confusion are absorbed/blocked by the doll.
+
+The user is still vulnerable to damage inflicted when entering or leaving the field, such as by pursuit or spikes; however, the doll will block the poison effect of toxic spikes.
+
+The doll is passed on by baton pass.  It keeps its existing HP, but uses the replacement Pok�mon's stats and types for damage calculation.
+
+All other effects work as normal."
+struggle,50,,1,"Inflicts typeless regular damage.  User takes 1/4 its max HP in recoil.  Ignores accuracy and evasion modifiers.
+
+This move is used automatically when a Pok�mon cannot use any other move legally, e.g., due to having no PP remaining or being under the effect of both encore and torment at the same time.
+
+This move's recoil is not treated as recoil for the purposes of anything that affects recoil, such as the ability rock head.  It also is not prevented by magic guard.
+
+This move cannot be copied by mimic, mirror move, or sketch, nor selected by assist or metronome, nor forced by encore."
+sketch,,,1,"Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.
+
+This move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore."
+triple-kick,10,90,2,"Inflicts regular damage.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate accuracy check, and this move stops if a hit misses.
+
+skill link does not apply."
+thief,60,100,17,"Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.
+
+Pok�mon with sticky hold or multitype are immune to the item theft effect.
+
+The target cannot recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+spider-web,,,7,"The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.
+
+The target may still escape by using baton pass, u turn, or a shed shell.
+
+Both the user and the target pass on this effect with baton pass."
+mind-reader,,,1,"If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.
+
+One-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pok�mon that are off the field due to moves such as dig or fly.
+
+If the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.
+
+This effect is passed on by baton pass."
+nightmare,,100,8,"Only works on sleeping Pok�mon.  Gives the target a nightmare, damaging it for 1/4 its max HP every turn.  If the target wakes up or leaves the field, this effect ends."
+flame-wheel,60,100,10,"Inflicts regular damage.  Has a 10% chance to burn the target.  Frozen Pok�mon may use this move, in which case they will thaw."
+snore,50,100,1,Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch.
+curse,,,8,"If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn.
+Otherwise: Lowers the user's Speed by one stage, and raises its Attack and Defense by one stage each.
+
+The curse effect is passed on by baton pass.
+
+This move cannot be copied by mirror move."
+flail,,100,1,"Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.
+
+64 * current HP / max HP | Power
+-----------------------: | ----:
+ 0� 1                    |  200
+ 2� 5                    |  150
+ 6�12                    |  100
+13�21                    |   80
+22�42                    |   40
+43�64                    |   20
+"
+conversion-2,,,1,"Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type, this move will fail."
+aeroblast,100,95,3,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+cotton-spore,,100,12,Lowers the target's Speed by two stages.
+reversal,,100,2,"Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.
+
+64 * current HP / max HP | Power
+-----------------------: | ----:
+ 0� 1                    |  200
+ 2� 5                    |  150
+ 6�12                    |  100
+13�21                    |   80
+22�42                    |   40
+43�64                    |   20
+"
+spite,,100,8,"Lowers the PP of the target's last used move by 4.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if its last used move has 0 PP remaining, this move will fail."
+powder-snow,40,100,15,Inflicts regular damage.  Has a 10% chance to freeze the target.
+protect,,,1,"No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+lock on, mind reader, and no guard provide a (100 � accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.
+
+thunder during rain dance and blizzard during hail have a 30% chance to break through this move.
+
+The following effects are not prevented by this move:
+
+* acupressure from an ally
+* curse's curse effect
+* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn
+* feint, which will also end this move's protection after it hits
+* imprison
+* perish song
+* shadow force
+* Moves that merely copy the user, such as transform or psych up
+
+This move cannot be selected by assist or metronome."
+mach-punch,40,100,2,Inflicts regular damage.
+scary-face,,100,1,Lowers the target's Speed by two stages.
+feint-attack,60,,17,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+sweet-kiss,,75,18,Confuses the target.
+belly-drum,,,1,"User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail."
+sludge-bomb,90,100,4,Inflicts regular damage.  Has a 30% chance to poison the target.
+mud-slap,20,100,5,Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.
+octazooka,65,85,11,Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.
+spikes,,,5,"Scatters spikes around the opposing field, which damage opposing Pok�mon that enter the field for 1/8 of their max HP.  Pok�mon immune to ground moves are immune to this damage, except during gravity.  Up to three layers of spikes may be laid down, adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP, and three layers damage for 1/4 max HP.
+
+wonder guard does not block damage from this effect.
+
+rapid spin removes this effect from its user's side of the field.  defog removes this effect from its target's side of the field."
+zap-cannon,120,50,13,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+foresight,,,1,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.
+destiny-bond,,,8,"If the user faints before its next move, the Pok�mon that fainted it will automatically faint.  End-of-turn damage is ignored.
+
+This move cannot be selected by assist or metronome."
+perish-song,,,1,"Every Pok�mon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pok�mon's counter reaches zero, that Pok�mon faints.  A Pok�mon that leaves the field will lose its counter; its replacement does not inherit the effect, and other Pok�mon's counters remain.
+
+This effect is passed on by baton pass.
+
+This move cannot be copied by mirror move."
+icy-wind,55,95,15,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+detect,,,2,"No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+lock on, mind reader, and no guard provide a (100 � accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.
+
+thunder during rain dance and blizzard during hail have a 30% chance to break through this move.
+
+The following effects are not prevented by this move:
+
+* acupressure from an ally
+* curse's curse effect
+* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn
+* feint, which will also end this move's protection after it hits
+* imprison
+* perish song
+* shadow force
+* Moves that merely copy the user, such as transform or psych up
+
+This move cannot be selected by assist or metronome."
+bone-rush,25,90,5,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+lock-on,,,1,"If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.
+
+One-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pok�mon that are off the field due to moves such as dig or fly.
+
+If the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.
+
+This effect is passed on by baton pass."
+outrage,120,100,16,"Inflicts regular damage.  User is forced to attack with this move for 2�3 turns,selected at random.  After the last hit, the user becomes confused.
+
+safeguard does not protect against the confusion from this move."
+sandstorm,,,6,"Changes the weather to a sandstorm for five turns.  Pok�mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok�mon's original Special Defense is raised by 50% for the duration of this effect.
+
+solar beam's power is halved.
+
+moonlight, morning sun, and synthesis only heal 1/4 the user's max HP."
+giga-drain,75,100,12,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+endure,,,1,"The user's HP cannot be lowered below 1 by any means for the remainder of this turn.
+
+If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.
+
+This move cannot be selected by assist or metronome."
+charm,,100,18,Lowers the target's Attack by two stages.
+rollout,30,90,6,"Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.
+
+If the user has used defense curl since entering the field, this move has double power."
+false-swipe,40,100,1,Inflicts regular damage.  Will not reduce the target's HP below 1.
+swagger,,85,1,"Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied."
+milk-drink,,,1,Heals the user for half its max HP.
+spark,65,100,13,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+fury-cutter,40,95,7,"Inflicts regular damage.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the field, power resets."
+steel-wing,70,90,9,Inflicts regular damage. Has a 10% chance to raise the user's Defense one stage.
+mean-look,,,1,"The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.
+
+The target may still escape by using baton pass, u turn, or a shed shell.
+
+Both the user and the target pass on this effect with baton pass."
+attract,,100,1,"Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will fail.  If either Pok�mon leaves the field, this effect ends."
+sleep-talk,,,1,"Only usable if the user is sleeping.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 PP.
+
+This move will not select assist, bide, bounce, chatter, copycat, dig, dive, fly, focus punch, me first, metronome, mirror move, shadow force, skull bash, sky attack, sky drop, sleep talk, solar beam, razor wind, or uproar.
+
+If the selected move requires a recharge turn�i.e., one of blast burn, frenzy plant, giga impact, hydro cannon, hyper beam, roar of time, or rock wrecker�and the user is still sleeping next turn, then it's forced to use this move again and pay another PP for the recharge turn.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+heal-bell,,,1,Removes major status effects and confusion from every Pok�mon in the user's party.
+return,,100,1,"Inflicts regular damage.  Power increases with happiness, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1."
+present,,90,1,"Randomly uses one of the following effects.
+
+Effect                                             | Chance
+-------------------------------------------------- | -----:
+Inflicts regular damage with 40 power  |    40%
+Inflicts regular damage with 80 power  |    30%
+Inflicts regular damage with 120 power |    10%
+Heals the target for 1/4 its max HP    |    20%
+
+On average, this move inflicts regular damage with 52 power and heals the target for 1/20 its max HP."
+frustration,,100,1,"Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1."
+safeguard,,,1,"Protects Pok�mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.
+
+If yawn is used while this move is in effect, it will immediately fail.
+
+defog used by an opponent will end this effect.
+
+This effect does not prevent the confusion caused by outrage, petal dance, or thrash."
+pain-split,,,1,"Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.
+
+This effect fails against a substitute."
+sacred-fire,100,95,10,"Inflicts regular damage.  Has a 50% chance to burn the target.  Frozen Pok�mon may use this move, in which case they will thaw."
+magnitude,,100,5,"Inflicts regular damage.  Power is selected at random between 10 and 150, with an average of 71:
+
+Magnitude | Power | Chance
+--------: | ----: | -----:
+        4 |    10 |     5%
+        5 |    30 |    10%
+        6 |    50 |    20%
+        7 |    70 |    30%
+        8 |    90 |    20%
+        9 |   110 |    10%
+       10 |   150 |     5%
+
+This move has double power against Pok�mon currently underground due to dig."
+dynamic-punch,100,50,2,Inflicts regular damage.  Has a 100% chance to confuse the target.
+megahorn,120,85,7,Inflicts regular damage.
+dragon-breath,60,100,16,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+baton-pass,,,1,"User switches out, and the trainer selects a replacement Pok�mon from the party.  Stat changes, confusion, and persistent move effects are passed along to the replacement Pok�mon.
+
+The following move effects are passed:
+
+* aqua ring
+* both the user's and target's effect of block, mean look, and spider web
+* the curse effect of curse
+* embargo
+* focus energy or an activated lansat berry
+* gastro acid
+* ingrain
+* being sapped by leech seed
+* being targeted by lock on or mind reader
+* magnet rise
+* perish song's counter
+* power trick
+* substitute; the doll's HP is unchanged
+
+The replacement Pok�mon does not trigger effects that respond to Pok�mon switching in."
+encore,,100,1,"The next 4�8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.
+
+If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail."
+pursuit,40,100,17,"Inflicts regular damage.  If the target attempts to switch out this turn before the user acts, this move hits the target before it leaves and has double power.
+
+This effect can still hit a Pok�mon that switches out when it has a substitute up or when an ally has used follow me."
+rapid-spin,50,100,1,"Inflicts regular damage.  Removes leech seed from the user, frees the user from bind, clamp, fire spin, magma storm, sand tomb, whirlpool, and wrap, and clears spikes, stealth rock, and toxic spikes from the user's side of the field.  If this move misses or has no effect, its effect doesn't activate."
+sweet-scent,,100,1,Lowers the target's evasion by one stage.
+iron-tail,100,75,9,Inflicts regular damage.  Has a 30% chance to lower the target's Defense by one stage.
+metal-claw,50,95,9,Inflicts regular damage. Has a 10% chance to raise the user's Attack one stage.
+vital-throw,70,,2,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+morning-sun,,,1,"Heals the user for half its max HP.
+
+During sunny day, the healing is increased to 2/3 max HP.
+
+During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."
+synthesis,,,12,"Heals the user for half its max HP.
+
+During sunny day, the healing is increased to 2/3 max HP.
+
+During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."
+moonlight,,,18,"Heals the user for half its max HP.
+
+During sunny day, the healing is increased to 2/3 max HP.
+
+During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."
+hidden-power,60,100,1,"Inflicts regular damage.  Power and type are determined by the user's IVs.
+
+Power is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)
+
+Power is always between 30 and 70, inclusive.  Average power is 49.5.
+
+Type is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.
+
+Value | Type
+----: | --------
+    0 | fighting
+    1 | flying
+    2 | poison
+    3 | ground
+    4 | rock
+    5 | bug
+    6 | ghost
+    7 | steel
+    8 | fire
+    9 | water
+   10 | grass
+   11 | electric
+   12 | psychic
+   13 | ice
+   14 | dragon
+   15 | dark
+
+This move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time."
+cross-chop,100,80,2,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+twister,40,100,16,"Inflicts regular damage.  Has a 20% chance to make each target flinch.
+
+If the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."
+rain-dance,,,11,"Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.
+
+If the user is holding damp rock, this effect lasts for eight turns.
+
+thunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.
+
+solar beam has half power.
+
+moonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.
+
+Pok�mon with swift swim have doubled original Speed.
+
+Pok�mon with forecast become water.
+
+Pok�mon with dry skin heal 1/8 max HP, Pok�mon with hydration are cured of major status effects, and Pok�mon with rain dish heal 1/16 max HP at the end of each turn."
+sunny-day,,,10,"Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage.
+
+If the user is holding heat rock, this effect lasts for eight turns.
+
+Pok�mon cannot become frozen.
+
+thunder has 50% accuracy.
+
+solar beam skips its charge turn.
+
+moonlight, morning sun, and synthesis heal 2/3 of the user's max HP.
+
+Pok�mon with chlorophyll have doubled original Speed.
+
+Pok�mon with forecast become fire.
+
+Pok�mon with leaf guard are not affected by major status effects.
+
+Pok�mon with flower gift change form; every Pok�mon on their side of the field have their original Attack and Special Attack increased by 50%.
+
+Pok�mon with dry skin lose 1/8 max HP at the end of each turn.
+
+Pok�mon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn."
+crunch,80,100,17,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+mirror-coat,,100,14,"Targets the last opposing Pok�mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+psych-up,,,1,"Discards the user's stat changes and copies the target's.
+
+This move cannot be copied by mirror move."
+extreme-speed,80,100,1,Inflicts regular damage.
+ancient-power,60,100,6,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+shadow-ball,80,100,8,Inflicts regular damage.  Has a 20% chance to lower the target's Special Defense by one stage.
+future-sight,120,100,14,"Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.
+
+This effect breaks through wonder guard.
+
+If the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.
+
+The damage is applied at the end of the turn, so it ignores endure and focus sash.
+
+This move cannot be copied by mirror move."
+rock-smash,40,100,2,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+whirlpool,35,85,11,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+If the target is in the first turn of dive, this move will hit with double power."
+beat-up,,100,17,"Inflicts typeless regular damage.  Every Pok�mon in the user's party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pok�mon still get STAB.
+
+This effect breaks through wonder guard."
+fake-out,40,100,1,Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.
+uproar,90,100,1,"Inflicts regular damage.  User is forced to use this move for 2�5 turns, selected at random.  All Pok�mon on the field wake up, and none can fall to sleep until the lock-in ends.
+
+Pok�mon cannot use rest during this effect.
+
+This move cannot be selected by sleep talk."
+stockpile,,,1,"Raises the user's Defense and Special Defense by one stage each.  Stores energy for use with spit up and swallow.  Up to three levels of energy can be stored, and all are lost if the user leaves the field.  Energy is still stored even if the stat boosts cannot be applied.
+
+If the user uses baton pass, the stat boosts are passed as normal, but the stored energy is not."
+spit-up,,100,1,"Inflicts regular damage.  Power is equal to 100 times the amount of energy stored by stockpile.  Ignores the random factor in the damage formula.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail.
+
+This move cannot be copied by mirror move."
+swallow,,,1,"Heals the user depending on the amount of energy stored by stockpile: 1/4 its max HP after one use, 1/2 its max HP after two uses, or fully after three uses.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail."
+heat-wave,95,90,10,Inflicts regular damage.  Has a 10% chance to burn the target.
+hail,,,15,"Changes the weather to hail for five turns, during which non-ice Pok�mon are damaged for 1/16 their max HP at the end of every turn.
+
+If the user is holding icy rock, this effect lasts for eight turns.
+
+blizzard has 100% accuracy.  If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection.
+
+moonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.
+
+Pok�mon with snow cloak are exempt from this effect's damage."
+torment,,100,17,"Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.
+
+If the target is forced to attempt a repeated move due to choice band, choice scarf, choice specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn."
+flatter,,100,17,"Raises the target's Special Attack by one stage, then confuses it."
+will-o-wisp,,85,10,Burns the target.
+memento,,100,17,Lowers the target's Attack and Special Attack by two stages.  User faints.
+facade,70,100,1,"Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power."
+focus-punch,150,100,2,"Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+smelling-salts,70,100,1,"Inflicts regular damage.  If the target is paralyzed, this move has double power, and the target is cured of its paralysis."
+follow-me,,,1,"Until the end of this turn, any moves that opposing Pok�mon target solely at the user's ally will instead target the user.  If both Pok�mon on the same side of the field use this move on the same turn, the Pok�mon that uses it last will become the target.
+
+This effect takes priority over lightning rod and storm drain.
+
+If the user's ally switches out, opposing Pok�mon may still hit it with pursuit.
+
+This move cannot be selected by assist or metronome."
+nature-power,,,1,"Uses another move chosen according to the terrain.
+
+Terrain                   | Selected move
+------------------------- | ------------------
+Building                  | tri attack
+Cave                      | rock slide
+Deep water                | hydro pump
+Desert                    | earthquake
+Grass                     | seed bomb
+Mountain                  | rock slide
+Road                      | earthquake
+Shallow water             | hydro pump
+Snow                      | blizzard
+Tall grass                | seed bomb
+electric terrain | thunderbolt
+grassy terrain   | energy ball
+misty terrain    | moonblast
+
+In Pok�mon Battle Revolution:
+
+Terrain        | Selected move
+-------------- | ------------------
+Courtyard      | tri attack
+Crystal        | rock slide
+Gateway        | hydro pump
+Magma          | rock slide
+Main Street    | tri attack
+Neon           | tri attack
+Stargazer      | rock slide
+Sunny Park     | seed bomb
+Sunset         | earthquake
+Waterfall      | seed bomb
+
+This move cannot be copied by mirror move."
+charge,,,13,"Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled."
+taunt,,100,17,"Target is forced to only use damaging moves for the next 3�5 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.
+
+assist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.
+
+bide, counter, endeavor, metal burst, and mirror coat are allowed."
+helping-hand,,,1,"Boosts the power of the target's moves by 50% until the end of this turn.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+trick,,100,14,"User and target permanently swap held items.  Works even if one of the Pok�mon isn't holding anything.  If either Pok�mon is holding mail, this move will fail.
+
+If either Pok�mon has multitype or sticky hold, this move will fail.
+
+If this move results in a Pok�mon obtaining choice band, choice scarf, or choice specs, and that Pok�mon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pok�mon had a choice item before this move was used.  If the first of the two Pok�mon gains a choice item, it may select whatever choice move it wishes next turn.
+
+Neither the user nor the target can recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+role-play,,,14,"User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.
+
+If the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.
+
+This move cannot be copied by mirror move."
+wish,,,1,"At the end of the next turn, user will be healed for half its max HP.  If the user is switched out, its replacement will be healed instead for half of the user's max HP.  If the user faints or is forcefully switched by roar or whirlwind, this effect will not activate."
+assist,,,1,"Uses a move from another Pok�mon in the user's party, both selected at random.  Moves from fainted Pok�mon can be used.  If there are no eligible Pok�mon or moves, this move will fail.
+
+This move will not select assist, chatter, circle throw, copycat, counter, covet, destiny bond, detect, dig, dive, dragon tail, endure, feint, fly focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, phantom force protect, quick guard, roar shadow force, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, whirlwind, or wide guard.
+
+This move cannot be copied by mirror move, nor selected by metronome or sleep talk."
+ingrain,,,12,"Prevents the user from switching out.  User regains 1/16 of its max HP at the end of every turn.  If the user was immune to ground attacks, it will now take normal damage from them.
+
+roar and whirlwind will not affect the user.  The user cannot use magnet rise.
+
+The user may still use u turn to leave the field.
+
+This effect can be passed with baton pass."
+superpower,120,100,2,"Inflicts regular damage, then lowers the user's Attack and Defense by one stage each."
+magic-coat,,,14,"The first non-damaging move targeting the user this turn that inflicts major status effects, stat changes, or trapping effects will be reflected at its user.
+
+defog, memento, and teeter dance are not reflected.
+
+attract, flatter, gastro acid, leech seed, swagger, worry seed, and yawn are reflected.
+
+This move cannot be copied by mirror move."
+recycle,,,1,"User recovers the last item consumed by the user or a Pok�mon in its position on the field.  The item must be used again before it can be recovered by this move again.  If the user is holding an item, this move fails.
+
+Items taken or given away by covet, knock off, switcheroo, thief, or trick may not be recovered."
+revenge,60,100,2,"Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.
+
+pain split does not count as damaging the user."
+brick-break,75,100,2,"Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage."
+yawn,,,1,"Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field, this effect is canceled.  If the target has a status effect when this move is used, this move will fail.
+
+If the target is protected by safeguard when this move is used, this move will fail.
+
+insomnia and vital spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use."
+knock-off,65,100,17,"Inflicts regular damage.  Target loses its held item.
+
+Neither the user nor the target can recover its item with recycle.
+
+If the target has multitype or sticky hold, it will take damage but not lose its item."
+endeavor,,100,1,"Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage."
+eruption,150,100,10,"Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+skill-swap,,,14,"User and target switch abilities.  Ignores accuracy and evasion modifiers.
+
+If either Pok�mon has multitype or wonder guard, this move will fail."
+imprison,,,14,"Prevents any Pok�mon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.  If no opposing Pok�mon knows any of the user's moves when this move is used, this move will fail."
+refresh,,,1,"Removes a burn, paralysis, or poison from the user."
+grudge,,,8,"If the user faints before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect."
+snatch,,,17,"The next time a Pok�mon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the ""snatchable"" flag.
+
+If two Pok�mon use this move on the same turn, the faster Pok�mon will steal the first beneficial move, and the slower Pok�mon will then steal it again�thus, only the slowest Pok�mon using this move ultimately gains a stolen move's effect.
+
+If the user steals psych up, it will target the Pok�mon that used psych up.  If the user was the original target of psych up, and the Pok�mon that originally used it's affected by pressure, it will only lose 1 PP.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+secret-power,70,100,1,"Inflicts regular damage.  Has a 30% chance to inflict an effect chosen according to the terrain.
+
+Terrain        | Effect
+-------------- | -------------------------------------------------------------
+Building       | Paralyzes target
+Cave           | Makes target flinch
+Deep water     | Lowers target's Attack by one stage
+Desert         | Lowers target's accuracy by one stage
+Grass          | Puts target to sleep
+Mountain       | Makes target flinch
+Road           | Lowers target's accuracy by one stage
+Shallow water  | Lowers target's Attack by one stage
+Snow           | Freezes target
+Tall grass     | Puts target to sleep
+
+In Pok�mon Battle Revolution:
+
+Terrain        | Effect
+-------------- | -------------------------------------------------------------
+Courtyard      | Paralyzes target
+Crystal        | Makes target flinch
+Gateway        | Lowers target's Attack by one stage
+Magma          | Makes target flinch
+Main Street    | Paralyzes target
+Neon           | Paralyzes target
+Stargazer      | Makes target flinch
+Sunny Park     | Puts target to sleep
+Sunset         | Lowers target's accuracy by one stage
+Waterfall      | Puts target to sleep
+"
+dive,80,100,11,"Inflicts regular damage.  User dives underwater for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, surf, and whirlpool still hit the user normally, and their power is doubled if appropriate.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be selected by sleep talk."
+arm-thrust,15,100,2,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+camouflage,,,1,"User's type changes according to the terrain.
+
+Terrain        | New type
+-------------- | --------------
+Building       | normal
+Cave           | rock
+Desert         | ground
+Grass          | grass
+Mountain       | rock
+Ocean          | water
+Pond           | water
+Road           | ground
+Snow           | ice
+Tall grass     | grass
+
+In Pok�mon Battle Revolution:
+
+Terrain        | New type
+-------------- | --------------
+Courtyard      | normal
+Crystal        | rock
+Gateway        | water
+Magma          | rock
+Main Street    | normal
+Neon           | normal
+Stargazer      | rock
+Sunny Park     | grass
+Sunset         | ground
+Waterfall      | grass
+"
+tail-glow,,,7,Raises the user's Special Attack by three stages.
+luster-purge,95,100,14,Inflicts regular damage.  Has a 50% chance to lower the target's Special Defense by one stage.
+mist-ball,95,100,14,Inflicts regular damage.  Has a 50% chance to lower the target's Special Attack by one stage.
+feather-dance,,100,3,Lowers the target's Attack by two stages.
+teeter-dance,,100,1,Confuses all targets.
+blaze-kick,85,90,10,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target.
+mud-sport,,,5,"electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends."
+ice-ball,30,90,15,"Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.
+
+If the user has used defense curl since entering the field, this move has double power."
+needle-arm,60,100,12,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+slack-off,,,1,Heals the user for half its max HP.
+hyper-voice,90,100,1,Inflicts regular damage.
+poison-fang,50,100,4,Inflicts regular damage.  Has a 50% chance to badly poison the target.
+crush-claw,75,95,1,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+blast-burn,150,90,10,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+hydro-cannon,150,90,11,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+meteor-mash,90,90,9,Inflicts regular damage. Has a 20% chance to raise the user's Attack one stage.
+astonish,30,100,8,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+weather-ball,50,100,1,"Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move."
+aromatherapy,,,12,Removes major status effects and confusion from every Pok�mon in the user's party.
+fake-tears,,100,17,Lowers the target's Special Defense by two stages.
+air-cutter,60,95,3,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+overheat,130,90,10,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+odor-sleuth,,,1,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.
+rock-tomb,60,95,6,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+silver-wind,60,100,7,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+metal-sound,,85,9,Lowers the target's Special Defense by two stages.
+grass-whistle,,55,12,Puts the target to sleep.
+tickle,,100,1,Lowers the target's Attack and Defense by one stage.
+cosmic-power,,,14,Raises the user's Defense and Special Defense by one stage.
+water-spout,150,100,11,"Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+signal-beam,75,100,7,Inflicts regular damage.  Has a 10% chance to confuse the target.
+shadow-punch,60,,8,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+extrasensory,80,100,14,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+sky-uppercut,85,90,2,"Inflicts regular damage.
+
+This move can hit Pok�mon under the effect of bounce, fly, or sky drop."
+sand-tomb,35,85,5,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+sheer-cold,,30,15,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+muddy-water,90,85,11,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+bullet-seed,25,100,12,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+aerial-ace,60,,3,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+icicle-spear,25,100,15,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+iron-defense,,,9,Raises the user's Defense by two stages.
+block,,,1,"The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.
+
+The target may still escape by using baton pass, u turn, or a shed shell.
+
+Both the user and the target pass on this effect with baton pass."
+howl,,,1,Raises the user's Attack by one stage.
+dragon-claw,80,100,16,Inflicts regular damage.
+frenzy-plant,150,90,12,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+bulk-up,,,2,Raises the user's Attack and Defense by one stage each.
+bounce,85,85,3,"Inflicts regular damage.  User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a 30% chance to paralyze the target.
+
+During the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.
+
+The damage from hail and sandstorm still applies during the immune turn.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk."
+mud-shot,55,95,5,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+poison-tail,50,100,4,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+covet,60,100,1,"Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.
+
+Pok�mon with sticky hold or multitype are immune to the item theft effect.
+
+The target cannot recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+volt-tackle,120,100,13,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a 10% chance to paralyze the target.
+magical-leaf,60,,12,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+water-sport,,,11,"fire moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends."
+calm-mind,,,14,Raises the user's Special Attack and Special Defense by one stage each.
+leaf-blade,90,100,12,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+dragon-dance,,,16,Raises the user's Attack and Speed by one stage each.
+rock-blast,25,90,6,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+shock-wave,60,,13,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+water-pulse,60,100,11,Inflicts regular damage.  Has a 20% chance to confuse the target.
+doom-desire,140,100,9,"Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.
+
+This effect breaks through wonder guard.
+
+If the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.
+
+The damage is applied at the end of the turn, so it ignores endure and focus sash.
+
+This move cannot be copied by mirror move."
+psycho-boost,140,90,14,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+roost,,,3,"Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn."
+gravity,,,14,"For five turns (including this one), all immunities to ground moves are disabled.  For the duration of this effect, the evasion of every Pok�mon on the field is lowered by two stages.  Cancels the effects of bounce, fly, and sky drop.
+
+Specifically, flying Pok�mon and those with levitate or that have used magnet rise are no longer immune to ground attacks, arena trap, spikes, or toxic spikes.
+
+bounce, fly, sky drop, high jump kick, jump kick, and splash cannot be used while this move is in effect.
+
+*Bug*: If this move is used during a double or triple battle while Pok�mon are under the effect of sky drop, Sky Drop's effect is not correctly canceled on its target, and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it."
+miracle-eye,,,14,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A dark Pok�mon under this effect takes normal damage from psychic moves.  This move itself ignores accuracy and evasion modifiers.
+wake-up-slap,70,100,2,"Inflicts regular damage.  If the target is sleeping, this move has double power, and the target wakes up."
+hammer-arm,100,90,2,"Inflicts regular damage, then lowers the user's Speed by one stage."
+gyro-ball,,100,9,"Inflicts regular damage.  Power increases with the target's current Speed compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150."
+healing-wish,,,14,"User faints.  Its replacement's HP is fully restored, and any major status effect is removed.  If the replacement Pok�mon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead."
+brine,65,100,11,"Inflicts regular damage.  If the target has less than half its max HP remaining, this move has double power."
+natural-gift,,100,1,"Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will fail."
+feint,30,100,1,"Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome."
+pluck,60,100,3,"Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.
+
+If the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.
+
+If this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+tailwind,,,3,"For the next three turns, all Pok�mon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field."
+acupressure,,,1,"Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will fail.
+
+If the target has a substitute, this move will have no effect, even if the user is the target.
+
+This move cannot be copied by mirror move."
+metal-burst,,100,9,"Targets the last opposing Pok�mon to hit the user with a damaging move this turn.  Inflicts 1.5� the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored."
+u-turn,70,100,7,"Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pok�mon from the party.  If the target faints from this attack, the user's trainer selects the new Pok�mon to send out first.  If the user is the last Pok�mon in its party that can battle, it will not switch out.
+
+The user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.
+
+This move may be used even if the user is under the effect of ingrain.  ingrain's effect will end."
+close-combat,120,100,2,"Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each."
+payback,50,100,17,"Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power."
+assurance,60,100,17,"Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power."
+embargo,,100,17,"Target cannot use its held item for five turns.  If the target leaves the field, this effect ends.
+
+If a Pok�mon under this effect uses bug bite or pluck on a Pok�mon holding a berry, the berry is destroyed but not used.  If a Pok�mon under this effect uses fling, it will fail.
+
+This effect is passed by baton pass."
+fling,,100,17,"Inflicts regular damage.  Power and type are determined by the user's held item.  The item is consumed.  If the user is not holding an item, or its item has no set type and power, this move will fail.
+
+This move ignores sticky hold.
+
+If the user is under the effect of embargo, this move will fail."
+psycho-shift,,100,14,"If the user has a major status effect and the target does not, the user's status is transferred to the target."
+trump-card,,,1,"Inflicts regular damage.  Power is determined by the PP remaining for this move, after its PP cost is deducted.  Ignores accuracy and evasion modifiers.
+
+PP remaining | Power
+------------ | ----:
+4 or more    |    40
+3            |    50
+2            |    60
+1            |    80
+0            |   200
+
+If this move is activated by another move, the activating move's PP is used to calculate power."
+heal-block,,100,14,"For the next five turns, the target may not use any moves that only restore HP, and move effects that heal the target are disabled.  Moves that steal HP may still be used, but will only inflict damage and not heal the target."
+wring-out,,100,1,"Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121."
+power-trick,,,14,"The user's original Attack and Defense are swapped.
+
+This effect is passed on by baton pass."
+gastro-acid,,100,4,"The target's ability is disabled as long as it remains on the field.
+
+This effect is passed on by baton pass."
+lucky-chant,,,1,"For five turns, opposing Pok�mon cannot score critical hits."
+me-first,,,1,"If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.
+
+If the target moves before the user, this move will fail.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+copycat,,,1,"Uses the last move that was used successfully by any Pok�mon, including the user.
+
+This move cannot copy itself, nor roar nor whirlwind.
+
+This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+power-swap,,,14,User swaps its Attack and Special Attack stat modifiers modifiers with the target.
+guard-swap,,,14,User swaps its Defense and Special Defense modifiers with the target.
+punishment,,100,17,"Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised, capping at 200.  Accuracy and evasion modifiers do not increase this move's power."
+last-resort,140,100,1,"Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail."
+worry-seed,,100,12,"Changes the target's ability to insomnia.
+
+If the target's ability is truant or multitype, this move will fail."
+sucker-punch,70,100,17,"Inflicts regular damage.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will fail.
+
+This move is not affected by iron fist."
+toxic-spikes,,,4,"Scatters poisoned spikes around the opposing field, which poison opposing Pok�mon that enter the field.  A second layer of these spikes may be laid down, in which case Pok�mon will be badly poisoned instead.  Pok�mon immune to either ground moves or being poisoned are immune to this effect.  Pok�mon otherwise immune to ground moves are affected during gravity.
+
+If a poison Pok�mon not immune to ground moves enters a field covered with poisoned spikes, the spikes are removed.
+
+rapid spin will remove this effect from its user's side of the field.  defog will remove this effect from its target's side of the field.
+
+This move does not trigger synchronize, unless the Pok�mon with synchronize was forced to enter the field by another effect such as roar.
+
+Pok�mon entering the field due to baton pass are not affected by this effect."
+heart-swap,,,14,User swaps its stat modifiers with the target.
+aqua-ring,,,11,"Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field, this effect ends.
+
+This effect is passed on by baton pass."
+magnet-rise,,,13,"For five turns, the user is immune to ground moves.
+
+If the user is under the effect of ingrain or has levitate, this move will fail.
+
+This effect is temporarily disabled by and cannot be used during gravity.
+
+This effect is passed on by baton pass."
+flare-blitz,120,100,10,"Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a 10% chance to burn the target.  Frozen Pok�mon may use this move, in which case they will thaw."
+force-palm,60,100,2,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+aura-sphere,80,,2,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+rock-polish,,,6,Raises the user's Speed by two stages.
+poison-jab,80,100,4,Inflicts regular damage.  Has a 30% chance to poison the target.
+dark-pulse,80,100,17,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+night-slash,70,100,17,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+aqua-tail,90,90,11,Inflicts regular damage.
+seed-bomb,80,100,12,Inflicts regular damage.
+air-slash,75,95,3,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+x-scissor,80,100,7,Inflicts regular damage.
+bug-buzz,90,100,7,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+dragon-pulse,85,100,16,Inflicts regular damage.
+dragon-rush,100,75,16,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+power-gem,80,100,6,Inflicts regular damage.
+drain-punch,75,100,2,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+vacuum-wave,40,100,2,Inflicts regular damage.
+focus-blast,120,70,2,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+energy-ball,90,100,12,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+brave-bird,120,100,3,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+earth-power,90,100,5,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+switcheroo,,100,17,"User and target permanently swap held items.  Works even if one of the Pok�mon isn't holding anything.  If either Pok�mon is holding mail, this move will fail.
+
+If either Pok�mon has multitype or sticky hold, this move will fail.
+
+If this move results in a Pok�mon obtaining choice band, choice scarf, or choice specs, and that Pok�mon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pok�mon had a choice item before this move was used.  If the first of the two Pok�mon gains a choice item, it may select whatever choice move it wishes next turn.
+
+Neither the user nor the target can recover its item with recycle.
+
+This move cannot be selected by assist or metronome."
+giga-impact,150,90,1,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+nasty-plot,,,17,Raises the user's Special Attack by two stages.
+bullet-punch,40,100,9,Inflicts regular damage.
+avalanche,60,100,15,"Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.
+
+pain split does not count as damaging the user."
+ice-shard,40,100,15,Inflicts regular damage.
+shadow-claw,70,100,8,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+thunder-fang,65,95,13,Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch.
+ice-fang,65,95,15,Inflicts regular damage.  Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch.
+fire-fang,65,95,10,Inflicts regular damage.  Has a 10% chance to burn the target and a separate 10% chance to make the target flinch.
+shadow-sneak,40,100,8,Inflicts regular damage.
+mud-bomb,65,85,5,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+psycho-cut,70,100,14,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+zen-headbutt,80,90,14,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+mirror-shot,65,85,9,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+flash-cannon,80,100,9,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+rock-climb,90,85,1,Inflicts regular damage.  Has a 20% chance to confuse the target.
+defog,,,3,"Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.
+
+If the target is protected by mist, it will prevent the evasion change, then be removed by this move."
+trick-room,,,14,"For five turns (including this one), slower Pok�mon will act before faster Pok�mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.
+
+Pok�mon holding full incense, lagging tail, or quick claw and Pok�mon with stall ignore this effect."
+draco-meteor,130,90,16,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+discharge,80,100,13,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+lava-plume,80,100,10,Inflicts regular damage.  Has a 30% chance to burn the target.
+leaf-storm,130,90,12,"Inflicts regular damage, then lowers the user's Special Attack by two stages."
+power-whip,120,85,12,Inflicts regular damage.
+rock-wrecker,150,90,6,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+cross-poison,70,100,4,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+gunk-shot,120,80,4,Inflicts regular damage.  Has a 30% chance to poison the target.
+iron-head,80,100,9,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+magnet-bomb,60,,9,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+stone-edge,100,80,6,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+captivate,,100,1,"Lowers the target's Special Attack by two stages.  If the user and target are the same gender, or either is genderless, this move will fail."
+stealth-rock,,,6,"Spreads sharp rocks around the opposing field, damaging any Pok�mon that enters the field for 1/8 its max HP.  This damage is affected by the entering Pok�mon's susceptibility to rock moves.
+
+rapid spin removes this effect from its user's side of the field."
+grass-knot,,100,12,"Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.
+
+Target's weight | Power
+--------------- | ----:
+Up to 10kg      |    20
+Up to 25kg      |    40
+Up to 50kg      |    60
+Up to 100kg     |    80
+Up to 200kg     |   100
+Above 200kg     |   120
+"
+chatter,65,100,3,"Inflicts regular damage.  Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.
+
+This move cannot be copied by mimic, mirror move, or sketch, nor selected by assist, metronome, or sleep talk."
+judgment,100,100,1,"Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.
+
+Note: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+bug-bite,60,100,7,"Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.
+
+If the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.
+
+If this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+charge-beam,50,90,13,Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.
+wood-hammer,120,100,12,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+aqua-jet,40,100,11,Inflicts regular damage.
+attack-order,90,100,7,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+defend-order,,,7,Raises the user's Defense and Special Defense by one stage.
+heal-order,,,7,Heals the user for half its max HP.
+head-smash,150,80,6,Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.
+double-hit,35,90,1,Inflicts regular damage.  Hits twice in one turn.
+roar-of-time,150,90,16,"Inflicts regular damage.  User loses its next turn to ""recharge"", and cannot attack or switch out during that turn."
+spacial-rend,100,95,16,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+lunar-dance,,,14,"User faints.  Its replacement's HP and PP are fully restored, and any major status effect is removed."
+crush-grip,,100,1,"Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121."
+magma-storm,100,75,10,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+dark-void,,50,17,Puts the target to sleep.
+seed-flare,120,85,12,Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages.
+ominous-wind,60,100,8,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+shadow-force,120,100,8,"Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.
+
+This move ignores the effects of detect and protect.
+
+This move cannot be selected by sleep talk."
+hone-claws,,,17,Raises the user's Attack and accuracy by one stage.
+wide-guard,,,6,"Moves with multiple targets will not hit friendly Pok�mon for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+This move cannot be selected by assist or metronome."
+guard-split,,,14,Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pok�mon. Unmodified Special Defense is averaged the same way.
+power-split,,,14,"Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pok�mon. Unmodified Special Attack is averaged the same way.
+
+This effect applies before any other persistent changes to unmodified Attack or Special Attack, such as flower gift during sunny day."
+wonder-room,,,14,"For five turns (including this one), every Pok�mon's Defense and Special Defense are swapped."
+psyshock,80,100,14,"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+venoshock,65,100,4,"Inflicts regular damage.  If the target is poisoned, this move has double power."
+autotomize,,,9,Raises the user's Speed by two stages.  Halves the user's weight; this effect does not stack.
+rage-powder,,,7,"Until the end of this turn, any moves that opposing Pok�mon target solely at the user's ally will instead target the user.  If both Pok�mon on the same side of the field use this move on the same turn, the Pok�mon that uses it last will become the target.
+
+This effect takes priority over lightning rod and storm drain.
+
+If the user's ally switches out, opposing Pok�mon may still hit it with pursuit.
+
+This move cannot be selected by assist or metronome."
+telekinesis,,,14,"For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.
+
+This effect is removed by gravity.  If Gravity is already in effect, this move will fail."
+magic-room,,,14,"For five turns (including this one), passive effects of held items are ignored, and Pok�mon will not use their held items."
+smack-down,50,100,6,"Inflicts regular damage.  Removes the target's immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate, magnet rise, or telekinesis, and causes the target's flying type to be ignored when it takes Ground damage.
+
+If the target isn't immune to Ground damage, this move will fail.
+
+This move can hit Pok�mon under the effect of bounce, fly, or sky drop, and ends the effect of Bounce or Fly."
+storm-throw,60,100,2,Inflicts regular damage.  Always scores a critical hit.
+flame-burst,70,100,10,"Inflicts regular damage.  If this move successfully hits the target, any Pok�mon adjacent to the target are damaged for 1/16 their max HP."
+sludge-wave,95,100,4,Inflicts regular damage.  Has a 10% chance to poison the target.
+quiver-dance,,,7,"Raises the user's Special Attack, Special Defense, and Speed by one stage each."
+heavy-slam,,100,9,"Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.
+
+User's weight                    | Power
+-------------------------------- | ----:
+Up to 2� the target's weight     |    40
+Up to 3� the target's weight     |    60
+Up to 4� the target's weight     |    80
+Up to 5� the target's weight     |   100
+More than 5� the target's weight |   120
+"
+synchronoise,120,100,14,Inflicts regular damage.  Only Pok�mon that share a type with the user will take damage from this move.
+electro-ball,,100,13,"Inflicts regular damage.  The greater the user's Speed compared to the target's, the higher power this move has, to a maximum of 150.
+
+User's Speed                     | Power
+-------------------------------- | ----:
+Up to 2� the target's Speed      |    60
+Up to 3� the target's Speed      |    80
+Up to 4� the target's Speed      |   120
+More than 4� the target's Speed  |   150
+"
+soak,,100,11,"Changes the target to pure water-type until it leaves the field.  If the target has multitype, this move will fail."
+flame-charge,50,100,10,Inflicts regular damage.  Raises the user's Speed by one stage.
+coil,,,4,"Raises the user's Attack, Defense, and accuracy by one stage each."
+low-sweep,65,100,2,Lowers the target's Speed by one stage.
+acid-spray,40,100,4,Inflicts regular damage.  Lowers the target's Special Defense by two stages.
+foul-play,95,100,17,Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.
+simple-beam,,100,1,Changes the target's ability to simple.
+entrainment,,100,1,Changes the target's ability to match the user's.  This effect ends when the target leaves battle.
+after-you,,,1,"The target will act next this turn, regardless of Speed or move priority.
+If the target has already acted this turn, this move will fail."
+round,60,100,1,"Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pok�mon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pok�mon using other moves will then continue to act as usual."
+echoed-voice,40,100,1,"Inflicts regular damage.  If any friendly Pok�mon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200."
+chip-away,70,100,1,"Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+clear-smog,50,,4,Inflicts regular damage.  All of the target's stat modifiers are reset to zero.
+stored-power,20,100,14,"Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pok�mon with all five stats modified to +6, this move's power is 31�."
+quick-guard,,,2,"Moves with priority greater than 0 will not hit friendly Pok�mon for the remainder of this turn.  If the user is last to act this turn, this move will fail.
+
+This move cannot be selected by assist or metronome."
+ally-switch,,,14,"User switches position on the field with the friendly Pok�mon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pok�mon, this move will fail."
+scald,80,100,11,Inflicts regular damage.  Has a 30% chance to burn the target.
+shell-smash,,,1,"Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each."
+heal-pulse,,,14,Heals the target for half its max HP.
+hex,65,100,8,"Inflicts regular damage.  If the target has a major status ailment, this move has double power."
+sky-drop,60,100,3,"Inflicts regular damage.  User carries the target high into the air for one turn, during which no moves will hit either Pok�mon and neither can act.  On the following turn, the user drops the target, inflicting damage and ending the effect.
+
+If the target is flying-type, this move will function as normal but inflict no damage.
+
+gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind can hit both the user and the target during this effect.  gust and twister will additionally have double power.
+
+The damage from hail and sandstorm still applies during this effect.
+
+Either Pok�mon may be hit during this effect if also under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk.
+
+*Bug*: If gravity is used during a double or triple battle while this move is in effect, this move is not correctly canceled on the target, and it remains high in the air indefinitely.  As this move prevents the target from acting, the only way to subsequently remove it from the field is to faint it."
+shift-gear,,,9,Raises the user's Attack by one stage and its Speed by two stages.
+circle-throw,60,90,2,"Inflicts regular damage, then switches the target out for another of its trainer's Pok�mon, selected at random.
+
+If the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok�mon, it will not be switched out.  If the target is a wild Pok�mon, the battle ends instead."
+incinerate,60,100,10,"Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move."
+quash,,100,17,"Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail."
+acrobatics,55,100,3,"Inflicts regular damage.  If the user has no held item, this move has double power."
+reflect-type,,,1,User's type changes to match the target's.
+retaliate,70,100,1,"Inflicts regular damage.  If a friendly Pok�mon fainted on the previous turn, this move has double power."
+final-gambit,,100,2,Inflicts damage equal to the user's remaining HP.  User faints.
+bestow,,,1,"Transfers the user's held item to the target.  If the user has no held item, or the target already has a held item, this move will fail."
+inferno,100,50,10,Inflicts regular damage.  Has a 100% chance to burn the target.
+water-pledge,80,100,11,"Inflicts regular damage.  If a friendly Pok�mon used grass pledge earlier this turn, all opposing Pok�mon have halved Speed for four turns (including this one)."
+fire-pledge,80,100,10,"Inflicts regular damage.  If a friendly Pok�mon used water pledge earlier this turn, moves used by any friendly Pok�mon have doubled effect chance for four turns (including this one)."
+grass-pledge,80,100,12,"Inflicts regular damage.  If a friendly Pok�mon used fire pledge earlier this turn, all opposing Pok�mon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one)."
+volt-switch,70,100,13,"Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pok�mon from the party.  If the target faints from this attack, the user's trainer selects the new Pok�mon to send out first.  If the user is the last Pok�mon in its party that can battle, it will not switch out.
+
+The user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.
+
+This move may be used even if the user is under the effect of ingrain.  ingrain's effect will end."
+struggle-bug,50,100,7,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+bulldoze,60,100,5,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+frost-breath,60,90,15,Inflicts regular damage.  Always scores a critical hit.
+dragon-tail,60,90,16,"Inflicts regular damage, then switches the target out for another of its trainer's Pok�mon, selected at random.
+
+If the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok�mon, it will not be switched out.  If the target is a wild Pok�mon, the battle ends instead."
+work-up,,,1,Raises the user's Attack and Special Attack by one stage each.
+electroweb,55,95,13,Lowers the target's Speed by one stage.
+wild-charge,90,100,13,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+drill-run,80,95,5,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+dual-chop,40,90,16,Inflicts regular damage.  Hits twice in one turn.
+heart-stamp,60,100,14,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+horn-leech,75,100,12,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+sacred-sword,90,100,2,"Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+razor-shell,75,95,11,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+heat-crash,,100,10,"Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.
+
+User's weight                    | Power
+-------------------------------- | ----:
+Up to 2� the target's weight     |    40
+Up to 3� the target's weight     |    60
+Up to 4� the target's weight     |    80
+Up to 5� the target's weight     |   100
+More than 5� the target's weight |   120
+"
+leaf-tornado,65,90,12,Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.
+steamroller,65,100,7,"Inflicts regular damage.  Has a 30% chance to make the target flinch.
+
+Power is doubled against Pok�mon that have used minimize since entering the field."
+cotton-guard,,,12,Raises the user's Defense by three stages.
+night-daze,85,95,17,Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage.
+psystrike,100,100,14,"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+tail-slap,25,85,1,"Inflicts regular damage.  Hits 2�5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+hurricane,110,70,3,"Inflicts regular damage.  Has a 30% chance to confuse the target.
+
+This move can hit Pok�mon under the effect of bounce, fly, or sky drop.
+
+During rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy."
+head-charge,120,100,1,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+gear-grind,50,85,9,Inflicts regular damage.  Hits twice in one turn.
+searing-shot,100,100,10,Inflicts regular damage.  Has a 30% chance to burn the target.
+techno-blast,120,100,1,"Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.
+
+Note: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+relic-song,75,100,1,"Inflicts regular damage.  Has a 10% chance to put the target to sleep.
+If the user is a meloetta, it will toggle between Aria and Pirouette Forme."
+secret-sword,85,100,2,"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+glaciate,65,95,15,Inflicts regular damage.  Lowers the target's Speed by one stage.
+bolt-strike,130,85,13,Inflicts regular damage.  Has a 20% chance to paralyze the target.
+blue-flare,130,85,10,Inflicts regular damage.  Has a 20% chance to burn the target.
+fiery-dance,80,100,10,Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage.
+freeze-shock,140,90,15,Inflicts regular damage.  Has a 30% chance to paralyze the target.  User charges for one turn before attacking.
+ice-burn,140,90,15,Inflicts regular damage.  Has a 30% chance to burn the target.  User charges for one turn before attacking.
+snarl,55,95,17,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+icicle-crash,85,90,15,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+v-create,180,95,10,"Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each."
+fusion-flare,100,100,10,"Inflicts regular damage.  If a friendly Pok�mon used fusion bolt earlier this turn, this move has double power."
+fusion-bolt,100,100,13,"Inflicts regular damage.  If a friendly Pok�mon used fusion flare earlier this turn, this move has double power."
+flying-press,100,95,2,"Inflicts regular damage.  For the purposes of type effectiveness, this move is both fighting- and flying-type: its final effectiveness is determined by multiplying the effectiveness of each type against each of the target's types.
+
+For all other purposes, this move is pure Fighting-type.  If this move's type is changed, its Fighting typing is overwritten, and its secondary type remains Flying.
+
+If the target has used minimize since entering battle, this move has double power and will never miss."
+mat-block,,,2,Protects all friendly Pok�mon from damaging moves.  Only works on the first turn after the user is sent out.
+belch,120,90,4,"Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.
+
+After the user eats a berry, it may use this move any number of times until the end of the battle, even if it switches out.  Eating a held berry, eating a berry via bug bite or pluck, or being the target of a Flung berry will enable this move.  Feeding a Pok�mon a berry from the bag or using natural gift will not.
+
+If the trainer chooses this move when it cannot be used, the choice is rejected outright and the trainer must choose another move."
+rototiller,,,5,Raises the Attack and Special Attack of all grass Pok�mon in battle.
+sticky-web,,,7,"Shoots a web over the opponents' side of the field, which lowers the Speed of any opposing Pok�mon that enters the field by one stage.
+
+Pok�mon in the air, such as flying-types and those with levitate, are unaffected.  rapid spin removes Sticky Web from the user's side of the field; defog removes it from both sides."
+fell-stinger,50,100,7,Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target.
+phantom-force,90,100,8,"Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.
+
+This move ignores the effects of detect and protect.
+
+This move cannot be selected by sleep talk."
+trick-or-treat,,100,8,Adds ghost to the target's types.
+noble-roar,,100,1,Lowers the target's Attack and Special Attack by one stage.
+ion-deluge,,,13,Changes all Pok�mon's normal moves to electric moves for the rest of the turn.
+parabolic-charge,65,100,13,Heals the user for half the total damage dealt to all targets.
+forests-curse,,100,12,Adds grass to the target's types.
+petal-blizzard,90,100,12,Inflicts regular damage.
+freeze-dry,70,100,15,"Inflicts regular damage.  This move is super-effective against the water type.
+
+The target's other type will affect damage as usual.  If this move's type is changed, it remains super-effective against Water regardless of its type."
+disarming-voice,40,,18,Inflicts regular damage.  Ignores accuracy and evasion.
+parting-shot,,100,17,Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out.
+topsy-turvy,,,17,Inverts the target's stat modifiers.
+draining-kiss,50,100,18,Deals regular damage.  Drains 75% of the damage inflicted to heal the user.
+crafty-shield,,,18,"Protects all friendly Pok�mon from non-damaging moves for the rest of the turn.
+
+Unlike other blocking moves, this move may be used consecutively without its chance of success falling."
+flower-shield,,,18,Raises the Defense of all grass Pok�mon in battle.
+grassy-terrain,,,12,"For five turns, heals all Pok�mon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5� their power.
+
+Changes nature power to energy ball."
+misty-terrain,,,18,"For five turns, protects all Pok�mon on the ground from major status ailments and confusion and weakens dragon moves used against them to 0.5� their power.
+
+Changes nature power to moonblast."
+electrify,,,13,Changes the target's move's type to electric if it hasn't moved yet this turn.
+play-rough,90,90,18,Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.
+fairy-wind,40,100,18,Inflicts regular damage.
+moonblast,95,100,18,Inflicts regular damage.  Has a 30% chance to lower the target's Special Attack by one stage.
+boomburst,140,100,1,Inflicts regular damage.
+fairy-lock,,,18,Prevents all Pok�mon from fleeing or switching out during the next turn.
+kings-shield,,,9,Blocks damaging attacks and lowers attacking Pok�mon's Attack by two stages on contact.  Switches Aegislash to Shield Forme.
+play-nice,,,1,Lowers the target's Attack by one stage.
+confide,,,1,Lowers the target's Special Attack by one stage.
+diamond-storm,100,95,6,Inflicts regular damage.  Has a 50% chance to raise the user's Defense by two stages for each target hit.
+steam-eruption,110,95,11,Inflicts regular damage.  Has a 30% chance to burn the target.
+hyperspace-hole,80,,14,Inflicts regular damage.  Bypasses and removes any protection effect on the target.
+water-shuriken,15,100,11,Inflicts regular damage.  Hits 2�5 times.
+mystical-fire,75,100,10,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+spiky-shield,,,12,Blocks damaging attacks and damages attacking Pok�mon for 1/8 their max HP.
+aromatic-mist,,,18,Raises a selected ally's Special Defense by one stage.
+eerie-impulse,,100,13,Lowers the target's Special Attack by two stages.
+venom-drench,,100,4,"Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+powder,,100,7,"Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move."
+geomancy,,,18,"Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages."
+magnetic-flux,,,13,Raises the Defense and Special Defense of all friendly Pok�mon with plus or minus by one stage.
+happy-hour,,,1,"Doubles prize money.
+
+Stacks with a held item.  Only works once per battle."
+electric-terrain,,,13,"For five turns, prevents all Pok�mon on the ground from sleeping and strengthens their electric moves to 1.5� their power.
+
+Changes nature power to thunderbolt."
+dazzling-gleam,80,100,18,Inflicts regular damage.
+celebrate,,,1,Does nothing.
+hold-hands,,,1,Does nothing.
+baby-doll-eyes,,100,18,Lowers the target's Attack by one stage.
+nuzzle,20,100,13,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+hold-back,40,100,1,Inflicts regular damage.  Will not reduce the target's HP below 1.
+infestation,20,100,7,"Inflicts regular damage.  For the next 2�5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect."
+power-up-punch,40,100,2,Inflicts regular damage.  Raises the user's Attack by one stage.
+oblivion-wing,80,100,3,Deals regular damage.  Drains 75% of the damage inflicted to heal the user.
+thousand-arrows,90,100,5,Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of flying-type Pok�mon.
+thousand-waves,90,100,5,Inflicts regular damage.  Traps the target.
+lands-wrath,90,100,5,Inflicts regular damage.
+light-of-ruin,140,90,18,Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.
+origin-pulse,110,85,11,Inflicts regular damage.
+precipice-blades,120,85,5,Inflicts regular damage.
+dragon-ascent,120,100,3,"Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each."
+hyperspace-fury,100,,17,Inflicts regular damage.  Bypasses and removes any protection effect on the target.
+breakneck-blitz--physical,,,1,Inflicts regular damage.
+breakneck-blitz--special,,,1,Inflicts regular damage.
+all-out-pummeling--physical,,,2,Inflicts regular damage.
+all-out-pummeling--special,,,2,Inflicts regular damage.
+supersonic-skystrike--physical,,,3,Inflicts regular damage.
+supersonic-skystrike--special,,,3,Inflicts regular damage.
+acid-downpour--physical,,,4,Inflicts regular damage.
+acid-downpour--special,,,4,Inflicts regular damage.
+tectonic-rage--physical,,,5,Inflicts regular damage.
+tectonic-rage--special,,,5,Inflicts regular damage.
+continental-crush--physical,,,6,Inflicts regular damage.
+continental-crush--special,,,6,Inflicts regular damage.
+savage-spin-out--physical,,,7,Inflicts regular damage.
+savage-spin-out--special,,,7,Inflicts regular damage.
+never-ending-nightmare--physical,,,8,Inflicts regular damage.
+never-ending-nightmare--special,,,8,Inflicts regular damage.
+corkscrew-crash--physical,,,9,Inflicts regular damage.
+corkscrew-crash--special,,,9,Inflicts regular damage.
+inferno-overdrive--physical,,,10,Inflicts regular damage.
+inferno-overdrive--special,,,10,Inflicts regular damage.
+hydro-vortex--physical,,,11,Inflicts regular damage.
+hydro-vortex--special,,,11,Inflicts regular damage.
+bloom-doom--physical,,,12,Inflicts regular damage.
+bloom-doom--special,,,12,Inflicts regular damage.
+gigavolt-havoc--physical,,,13,Inflicts regular damage.
+gigavolt-havoc--special,,,13,Inflicts regular damage.
+shattered-psyche--physical,,,14,Inflicts regular damage.
+shattered-psyche--special,,,14,Inflicts regular damage.
+subzero-slammer--physical,,,15,Inflicts regular damage.

@@ -1,0 +1,497 @@
+master-ball,standard-balls,"Used in battle
+:   Catches a wild Pok�mon without fail.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+ultra-ball,standard-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 2�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+great-ball,standard-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1.5�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+poke-ball,standard-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+safari-ball,standard-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1.5�.
+
+This item can only be used in the great marsh or kanto safari zone."
+net-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon.  If the wild Pok�mon is water- or bug-type, this ball has a catch rate of 3�.  Otherwise, it has a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+dive-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon.  If the wild Pok�mon was encountered by surfing or fishing, this ball has a catch rate of 3.5�.  Otherwise, it has a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+nest-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon.  Has a catch rate of given by `(40 - level) / 10`, where `level` is the wild Pok�mon's level, to a maximum of 3.9� for level 1 Pok�mon.  If the wild Pok�mon's level is higher than 30, this ball has a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+repeat-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon.  If the wild Pok�mon's species is marked as caught in the trainer's Pok�dex, this ball has a catch rate of 3�.  Otherwise, it has a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+timer-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon.  Has a catch rate of 1.1� on the first turn of the battle and increases by 0.1� every turn, to a maximum of 4� on turn 30.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+luxury-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1�.  Whenever the caught Pok�mon's happiness increases, it increases by one extra point.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+premier-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+dusk-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon.  If it's currently nighttime or the wild Pok�mon was encountered while walking in a cave, this ball has a catch rate of 3.5�.  Otherwise, it has a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+heal-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1�.  The caught Pok�mon's HP is immediately restored, PP for all its moves is restored, and any status ailment is cured.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+quick-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 4� on the first turn of a battle, but 1� any other time.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+cherish-ball,special-balls,"Used in battle
+:   Attempts to catch a wild Pok�mon, using a catch rate of 1�.
+
+    If used in a trainer battle, nothing happens and the ball is lost."
+potion,healing,"Used on a friendly Pok�mon
+:   Restores 20 HP."
+antidote,status-cures,"Used on a party Pok�mon
+:   Cures poison."
+burn-heal,status-cures,"Used on a party Pok�mon
+:   Cures a burn."
+ice-heal,status-cures,"Used on a party Pok�mon
+:   Cures freezing."
+awakening,status-cures,"Used on a party Pok�mon
+:   Cures sleep."
+paralyze-heal,status-cures,"Used on a party Pok�mon
+:   Cures paralysis."
+full-restore,healing,"Used on a party Pok�mon
+:   Restores HP to full and cures any status ailment and confusion."
+max-potion,healing,"Used on a party Pok�mon
+:   Restores HP to full."
+hyper-potion,healing,"Used on a party Pok�mon
+:   Restores 200 HP."
+super-potion,healing,"Used on a party Pok�mon
+:   Restores 50 HP."
+full-heal,status-cures,"Used on a party Pok�mon
+:   Cures any status ailment and confusion."
+revive,revival,"Used on a party Pok�mon
+:   Revives the Pok�mon and restores half its HP."
+max-revive,revival,"Used on a party Pok�mon
+:   Revives the Pok�mon and restores its HP to full."
+fresh-water,healing,"Used on a party Pok�mon
+:   Restores 50 HP."
+soda-pop,healing,"Used on a party Pok�mon
+:   Restores 60 HP."
+lemonade,healing,"Used on a party Pok�mon
+:   Restores 80 HP."
+moomoo-milk,healing,"Used on a party Pok�mon
+:   Restores 100 HP."
+energy-powder,healing,"Used on a party Pok�mon
+:   Restores 50 HP.  Decreases happiness by 5/5/10."
+energy-root,healing,"Used on a party Pok�mon
+:   Restores 200 HP.  Decreases happiness by 10/10/15."
+heal-powder,status-cures,"Used on a party Pok�mon
+:   Cures any status ailment.  Decreases happiness by 5/5/10."
+revival-herb,revival,"Used on a party Pok�mon
+:   Revives a fainted Pok�mon and restores its HP to full.  Decreases happiness by 10/10/15."
+ether,pp-recovery,"Used on a party Pok�mon
+:   Restores 10 PP for a selected move."
+max-ether,pp-recovery,"Used on a party Pok�mon
+:   Restores PP to full for a selected move."
+elixir,pp-recovery,"Used on a party Pok�mon
+:   Restores 10 PP for each move."
+max-elixir,pp-recovery,"Used on a party Pok�mon
+:   Restores PP to full for each move."
+lava-cookie,status-cures,"Used on a party Pok�mon
+:   Cures any status ailment and confusion."
+berry-juice,healing,"Used on a party Pok�mon
+:   Restores 20 HP."
+sacred-ash,revival,"Used
+:   Revives all fainted Pok�mon in the party and restores their HP to full."
+hp-up,vitamins,"Used on a party Pok�mon
+:   Increases HP effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+protein,vitamins,"Used on a party Pok�mon
+:   Increases Attack effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+iron,vitamins,"Used on a party Pok�mon
+:   Increases Defense effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+carbos,vitamins,"Used on a party Pok�mon
+:   Increases Speed effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+calcium,vitamins,"Used on a party Pok�mon
+:   Increases Special Attack effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+rare-candy,vitamins,"Used on a party Pok�mon
+:   Increases level by 1.  Increases happiness by 5/3/2."
+pp-up,vitamins,"Used on a party Pok�mon
+:   Increases a selected move's max PP by 20% its original max PP, to a maximum of 1.6�.  Increases happiness by 5/3/2."
+zinc,vitamins,"Used on a party Pok�mon
+:   Increases Special Defense effort by 10, but won't increase it beyond 100.  Increases happiness by 5/3/2."
+pp-max,vitamins,"Used on a party Pok�mon
+:   Increases a selected move's max PP to 1.6� its original max PP.  Increases happiness by 5/3/2."
+old-gateau,status-cures,"Used on a party Pok�mon
+:   Cures any status ailment and confusion."
+guard-spec,stat-boosts,"Used on a party Pok�mon in battle
+:   Protects the target's stats from being lowered for the next five turns.  Increases happiness by 1/1/0."
+dire-hit,stat-boosts,"Used on a party Pok�mon in battle
+:   Increases the target's critical hit chance by one stage until it leaves the field.  Increases happiness by 1/1/0."
+x-attack,stat-boosts,"Used on a party Pok�mon in battle
+:   Raises the target's Attack by one stage.  Increases happiness by 1/1/0."
+x-defense,stat-boosts,"Used on a party Pok�mon in battle
+:   Raises the target's Defense by one stage.  Increases happiness by 1/1/0."
+x-speed,stat-boosts,"Used on a party Pok�mon in battle
+:   Raises the target's Speed by one stage.  Increases happiness by 1/1/0."
+x-accuracy,stat-boosts,"Used on a party Pok�mon in battle
+:   Raises the target's accuracy by one stage.  Increases happiness by 1/1/0."
+x-sp-atk,stat-boosts,"Used on a party Pok�mon in battle
+:   Raises the target's Special Attack by one stage.  Increases happiness by 1/1/0."
+x-sp-def,stat-boosts,"Used on a party Pok�mon in battle
+:   Raises the target's Special Defense by one stage.  Increases happiness by 1/1/0."
+poke-doll,spelunking,"Used in battle
+:   Ends a wild battle.  Cannot be used in trainer battles."
+fluffy-tail,spelunking,"Used in battle
+:   Ends a wild battle.  Cannot be used in trainer battles."
+blue-flute,flutes,"Used on a party Pok�mon
+:   Cures sleep."
+yellow-flute,flutes,"Used on a party Pok�mon in battle
+:   Cures confusion."
+red-flute,flutes,"Used on a party Pok�mon in battle
+:   Cures attraction."
+black-flute,spelunking,"Used outside of battle
+:   Decreases the wild Pok�mon encounter rate by 50%."
+white-flute,spelunking,"Used outside of battle
+:   Doubles the wild Pok�mon encounter rate."
+shoal-salt,collectibles,No effect.
+shoal-shell,collectibles,No effect.
+red-shard,collectibles,"No effect.
+
+In Diamond and Pearl, trade ten for a sunny day TM in the house midway along the southern section of sinnoh route 212.
+
+In Platinum, trade to move tutors on sinnoh route 212, in snowpoint city, and in the survival area.  Eight shards total are required per tutelage, but the particular combination of colors varies by move.
+
+In HeartGold and SoulSilver, trade one for a cheri berry, a leppa berry, and a pecha berry with the Juggler near the Pok�mon Center in violet city.
+
+In HeartGold and SoulSilver, trade one for a persim berry, a pomeg berry, and a razz berry with the Juggler near the pal park entrance in fuchsia city."
+blue-shard,collectibles,"No effect.
+
+In Diamond and Pearl, trade ten for a rain dance TM in the house midway along the southern section of sinnoh route 212.
+
+In Platinum, trade to move tutors on sinnoh route 212, in snowpoint city, and in the survival area.  Eight shards total are required per tutelage, but the particular combination of colors varies by move.
+
+In HeartGold and SoulSilver, trade one for a chesto berry, an oran berry, and a wiki berry with the Juggler near the Pok�mon Center in violet city.
+
+In HeartGold and SoulSilver, trade one for a bluk berry, a cornn berry, and a kelpsy berry with the Juggler near the pal park entrance in fuchsia city."
+yellow-shard,collectibles,"No effect.
+
+In Diamond and Pearl, trade ten for a sandstorm TM in the house midway along the southern section of sinnoh route 212.
+
+In Platinum, trade to move tutors on sinnoh route 212, in snowpoint city, and in the survival area.  Eight shards total are required per tutelage, but the particular combination of colors varies by move.
+
+In HeartGold and SoulSilver, trade one for an aspear berry, a iapapa berry, and a sitrus berry with the Juggler near the Pok�mon Center in violet city.
+
+In HeartGold and SoulSilver, trade one for a grepa berry, a nomel berry, and a pinap berry with the Juggler near the pal park entrance in fuchsia city."
+green-shard,collectibles,"No effect.
+
+In Diamond and Pearl, trade ten for a hail TM in the house midway along the southern section of sinnoh route 212.
+
+In Platinum, trade to move tutors on sinnoh route 212, in snowpoint city, and in the survival area.  Eight shards total are required per tutelage, but the particular combination of colors varies by move.
+
+In HeartGold and SoulSilver, trade one for an aguav berry, a lum berry, and a rawst berry with the Juggler near the Pok�mon Center in violet city.
+
+In HeartGold and SoulSilver, trade one for a durin berry, a hondew berry, and a wepear berry with the Juggler near the pal park entrance in fuchsia city."
+super-repel,spelunking,"Used outside of battle
+:   Trainer will skip encounters with wild Pok�mon of a lower level than the lead party Pok�mon.  This effect wears off after the trainer takes 200 steps."
+max-repel,spelunking,"Used outside of battle
+:   Trainer will skip encounters with wild Pok�mon of a lower level than the lead party Pok�mon.  This effect wears off after the trainer takes 250 steps."
+escape-rope,spelunking,"Used outside of battle
+:   Transports the trainer to the last-entered dungeon entrance.  Cannot be used outside, in buildings, or in distortion world, sinnoh hall of origin 1, spear pillar, or turnback cave."
+repel,spelunking,"Used outside of battle
+:   Trainer will skip encounters with wild Pok�mon of a lower level than the lead party Pok�mon.  This effect wears off after the trainer takes 100 steps."
+sun-stone,evolution,"Used on a party Pok�mon
+:   Evolves a cottonee into whimsicott, a gloom into bellossom, a petilil into lilligant, or a sunkern into sunflora."
+moon-stone,evolution,"Used on a party Pok�mon
+:   Evolves a clefairy into clefable, a jigglypuff into wigglytuff, a munna into musharna, a nidorina into nidoqueen, a nidorino into nidoking, or a skitty into delcatty."
+fire-stone,evolution,"Used on a party Pok�mon
+:   Evolves an eevee into flareon, a growlithe into arcanine, a pansear into simisear, or a vulpix into ninetales."
+thunder-stone,evolution,"Used on a party Pok�mon
+:   Evolves an eelektrik into eelektross, an eevee into jolteon, or a pikachu into raichu."
+water-stone,evolution,"Used on a party Pok�mon
+:   Evolves an eevee into vaporeon, a lombre into ludicolo, a panpour into simipour, a poliwhirl into poliwrath, a shellder into cloyster, or a staryu into starmie."
+leaf-stone,evolution,"Used on a party Pok�mon
+:   Evolves an exeggcute into exeggutor, a gloom into vileplume, a nuzleaf into shiftry, a pansage into simisage, or a weepinbell into victreebel."
+tiny-mushroom,loot,Vendor trash.
+big-mushroom,loot,Vendor trash.
+pearl,loot,Vendor trash.
+big-pearl,loot,Vendor trash.
+stardust,loot,Vendor trash.
+star-piece,loot,Vendor trash.
+nugget,loot,Vendor trash.
+heart-scale,collectibles,Trade one to the Move Relearner near the shore in pastoria city or with the Move Deleter in blackthorn city to teach one party Pok�mon a prior level-up move.
+honey,dex-completion,"Used outside of battle
+:   Immediately triggers a wild Pok�mon battle, as long as the trainer is somewhere with wild Pok�mon�i.e., in tall grass, in a cave, or surfing.
+
+Can be smeared on sweet-smelling trees to attract tree-dwelling Pok�mon after six hours."
+growth-mulch,mulch,"Used on a patch of soil
+:   Plant's growth stages will each last 25% less time.  Dries soil out more quickly."
+damp-mulch,mulch,"Used on a patch of soil
+:   Plant's growth stages will each last 25% more time.  Dries soil out more slowly."
+stable-mulch,mulch,"Used on a patch of soil
+:   Fully-grown plant will last 25% longer before dying and possibly regrowing."
+gooey-mulch,mulch,"Used on a path of soil
+:   Plant will regrow after dying 25% more times."
+root-fossil,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a lileep.
+claw-fossil,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a anorith.
+helix-fossil,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a omanyte.
+dome-fossil,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a kabuto.
+old-amber,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a aerodactyl.
+armor-fossil,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a shieldon.
+skull-fossil,dex-completion,Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a cranidos.
+rare-bone,loot,Vendor trash.
+shiny-stone,evolution,"Used on a party Pok�mon
+:   Evolves a minccino into cinccino, a roselia into roserade, or a togetic into togekiss."
+dusk-stone,evolution,"Used on a party Pok�mon
+:   Evolves a lampent into chandelure, a misdreavus into mismagius, or a murkrow into honchkrow."
+dawn-stone,evolution,"Used on a party Pok�mon
+:   Evolves a male kirlia into gallade or a female snorunt into froslass."
+oval-stone,evolution,"Held by happiny
+:   Holder evolves into chansey when it levels up during the daytime."
+odd-keystone,dex-completion,"Place in the tower on sinnoh route 209.  Check the stone to encounter a spiritomb, as long as the trainer's Underground status card counts at least 32 greetings."
+adamant-orb,species-specific,"Held by dialga
+:   Holder's dragon- and steel-type moves have 1.2� their usual power."
+lustrous-orb,species-specific,"Held by palkia
+:   Holder's dragon- and water-type moves have 1.2� their usual power."
+grass-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+flame-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+bubble-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+bloom-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+tunnel-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+steel-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+heart-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+snow-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+space-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+air-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+mosaic-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+brick-mail,all-mail,"Used to send short messages to other players via Pok�mon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pok�mon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+Held
+:   Holder cannot be placed in the PC.  Any move attempting to remove this item from the holder will fail."
+cheri-berry,medicine,"Held in battle
+:   When the holder is paralyzed, it consumes this item to cure the paralysis.
+
+Used on a party Pok�mon
+:   Cures paralysis."
+chesto-berry,medicine,"Held in battle
+:   When the holder is asleep, it consumes this item to wake up.
+
+Used on a party Pok�mon
+:   Cures sleep."
+pecha-berry,medicine,"Held in battle
+:   When the holder is poisoned, it consumes this item to cure the poison.
+
+Used on a party Pok�mon
+:   Cures poison."
+rawst-berry,medicine,"Held in battle
+:   When the holder is burned, it consumes this item to cure the burn.
+
+Used on a party Pok�mon
+:   Cures a burn."
+aspear-berry,medicine,"Held in battle
+:   When the holder is frozen, it consumes this item to thaw itself.
+
+Used on a party Pok�mon
+:   Cures freezing."
+leppa-berry,medicine,"Held in battle
+:   When the holder is out of PP for one of its moves, it consumes this item to restore 10 of that move's PP.
+
+Used on a party Pok�mon
+:   Restores 10 PP for a selected move."
+oran-berry,medicine,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 10 HP.
+
+Used on a party Pok�mon
+:   Restores 10 HP."
+persim-berry,medicine,"Held in battle
+:   When the holder is confused, it consumes this item to cure the confusion.
+
+Used on a party Pok�mon
+:   Cures confusion."
+lum-berry,medicine,"Held in battle
+:   When the holder is afflicted with a major status ailment, it consumes this item to cure the ailment.
+
+Used on a party Pok�mon
+:   Cures any major status ailment."
+sitrus-berry,medicine,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/4 its max HP.
+
+Used on a party Pok�mon
+:   Restores 1/4 the Pok�mon's max HP."
+figy-berry,picky-healing,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP.  If the holder dislikes spicy flavors (i.e., has a nature that lowers Attack), it will also become confused."
+wiki-berry,picky-healing,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP.  If the holder dislikes dry flavors (i.e., has a nature that lowers Special Attack), it will also become confused."
+mago-berry,picky-healing,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP.  If the holder dislikes sweet flavors (i.e., has a nature that lowers Speed), it will also become confused."
+aguav-berry,picky-healing,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP.  If the holder dislikes bitter flavors (i.e., has a nature that lowers Special Defense), it will also become confused."
+iapapa-berry,picky-healing,"Held in battle
+:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP.  If the holder dislikes sour flavors (i.e., has a nature that lowers Defense), it will also become confused."
+razz-berry,baking-only,No effect; only useful for planting and cooking.
+bluk-berry,baking-only,No effect; only useful for planting and cooking.
+nanab-berry,baking-only,No effect; only useful for planting and cooking.
+wepear-berry,baking-only,No effect; only useful for planting and cooking.
+pinap-berry,baking-only,No effect; only useful for planting and cooking.
+pomeg-berry,effort-drop,"Used on a party Pok�mon
+:   Increases happiness by 10/5/2.  Lowers HP effort by 10."
+kelpsy-berry,effort-drop,"Used on a party Pok�mon
+:   Increases happiness by 10/5/2.  Lowers Attack effort by 10."
+qualot-berry,effort-drop,"Used on a party Pok�mon
+:   Increases happiness by 10/5/2.  Lowers Defense effort by 10."
+hondew-berry,effort-drop,"Used on a party Pok�mon
+:   Increases happiness by 10/5/2.  Lowers Special Attack effort by 10."
+grepa-berry,effort-drop,"Used on a party Pok�mon
+:   Increases happiness by 10/5/2.  Lowers Special Defense effort by 10."
+tamato-berry,effort-drop,"Used on a party Pok�mon
+:   Increases happiness by 10/5/2.  Lowers Speed effort by 10."
+cornn-berry,baking-only,No effect; only useful for planting and cooking.
+magost-berry,baking-only,No effect; only useful for planting and cooking.
+rabuta-berry,baking-only,No effect; only useful for planting and cooking.
+nomel-berry,baking-only,No effect; only useful for planting and cooking.
+spelon-berry,baking-only,No effect; only useful for planting and cooking.
+pamtre-berry,baking-only,No effect; only useful for planting and cooking.
+watmel-berry,baking-only,No effect; only useful for planting and cooking.
+durin-berry,baking-only,No effect; only useful for planting and cooking.
+belue-berry,baking-only,No effect; only useful for planting and cooking.
+occa-berry,type-protection,"Held in battle
+:   When the holder would take super-effective fire-type damage, it consumes this item to halve the amount of damage taken."
+passho-berry,type-protection,"Held in battle
+:   When the holder would take super-effective water-type damage, it consumes this item to halve the amount of damage taken."
+wacan-berry,type-protection,"Held in battle
+:   When the holder would take super-effective electric-type damage, it consumes this item to halve the amount of damage taken."
+rindo-berry,type-protection,"Held in battle
+:   When the holder would take super-effective grass-type damage, it consumes this item to halve the amount of damage taken."
+yache-berry,type-protection,"Held in battle
+:   When the holder would take super-effective ice-type damage, it consumes this item to halve the amount of damage taken."
+chople-berry,type-protection,"Held in battle
+:   When the holder would take super-effective fighting-type damage, it consumes this item to halve the amount of damage taken."
+kebia-berry,type-protection,"Held in battle
+:   When the holder would take super-effective poison-type damage, it consumes this item to halve the amount of damage taken."
+shuca-berry,type-protection,"Held in battle
+:   When the holder would take super-effective ground-type damage, it consumes this item to halve the amount of damage taken."
+coba-berry,type-protection,"Held in battle
+:   When the holder would take super-effective flying-type damage, it consumes this item to halve the amount of damage taken."
+payapa-berry,type-protection,"Held in battle
+:   When the holder would take super-effective psychic-type damage, it consumes this item to halve the amount of damage taken."
+tanga-berry,type-protection,"Held in battle
+:   When the holder would take super-effective bug-type damage, it consumes this item to halve the amount of damage taken."
+charti-berry,type-protection,"Held in battle
+:   When the holder would take super-effective rock-type damage, it consumes this item to halve the amount of damage taken."
+kasib-berry,type-protection,"Held in battle
+:   When the holder would take super-effective ghost-type damage, it consumes this item to halve the amount of damage taken."
+haban-berry,type-protection,"Held in battle
+:   When the holder would take super-effective dragon-type damage, it consumes this item to halve the amount of damage taken."
+colbur-berry,type-protection,"Held in battle
+:   When the holder would take super-effective dark-type damage, it consumes this item to halve the amount of damage taken."
+babiri-berry,type-protection,"Held in battle
+:   When the holder would take super-effective steel-type damage, it consumes this item to halve the amount of damage taken."
+chilan-berry,type-protection,"Held in battle
+:   When the holder would take normal-type damage, it consumes this item to halve the amount of damage taken."
+liechi-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Attack by one stage."
+ganlon-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Defense by one stage."
+salac-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Speed by one stage."
+petaya-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Special Attack by one stage."
+apicot-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Special Defense by one stage."
+lansat-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its critical hit chance by one stage."
+starf-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise a random stat by two stages."
+enigma-berry,other,"Held in battle
+:   When the holder takes super-effective damage, it consumes this item to restore 1/4 its max HP."
+micle-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item, and its next used move has 1.2� its normal accuracy."
+custap-berry,in-a-pinch,"Held in battle
+:   When the holder has 1/4 its max HP remaining or less, it consumes this item.  On the following turn, the holder will act first among moves with the same priority, regardless of Speed."
+jaboca-berry,other,"Held in battle
+:   When the holder takes physical damage, it consumes this item to damage the attacking Pok�mon for 1/8 its max HP."
+rowap-berry,other,"Held in battle
+:   When the holder takes special damage, it consumes this item to damage the attacking Pok�mon for 1/8 its max HP."
+bright-powder,held-items,"Held in battle
+:   Moves targeting the holder have 0.9� chance to hit."
+white-herb,held-items,"Held in battle
+:   At the end of each turn, if any of the holder's stats have a negative stat modifier, the holder consumes this item to remove the modifiers from those stats."
+macho-brace,effort-training,"Held
+:   When the holder would gain effort due to battle, it gains double that effort instead.
+
+Held in battle
+:   Holder has half its Speed."
+exp-share,training,"Held
+:   Experience is split across two groups: Pok�mon who participated in battle, and Pok�mon holding this item.  Each Pok�mon earns experience as though it had battled alone, divided by the number of Pok�mon in its group, then divided by the number of groups. Pok�mon holding this item who also participated in battle effectively earn experience twice.
+
+    Fainted Pok�mon never earn experience, and empty groups are
+ignored; thus, if a single Pok�mon is holding this item and the only Pok�mon who battled faints from explosion, the holder will gain full experience."
+quick-claw,held-items,"Held in battle
+:   Whenever the holder attempts to use a move, it has a 3/16 chance to act first among moves with the same priority.  If multiple Pok�mon have this effect at the same time, Speed is the tie-breaker as normal, but the effect of trick room is ignored."
+soothe-bell,training,"Held
+:   When the holder would earn happiness for any reason, it earns twice that amount instead."
+mental-herb,held-items,"Held in battle
+:   When the holder is attracted, it consumes this item to cure the attraction."
+choice-band,choice,"Held in battle
+:   Holder has 1.5� its Attack.  When the holder attempts to use a move, all its other moves are disabled until it leaves battle or loses this item.
+
+    The restriction ends even if this item is swapped for another Choice item
+via trick or switcheroo."
+kings-rock,held-items,"Held in battle
+:   Holder's damaging moves have a 10% chance to make their target flinch.  This chance applies independently to each hit of a multi-hit move.
+
+    This item's chance is rolled independently of any other move effects;
+e.g., a move with a 30% chance to flinch normally will have a 37% total chance to flinch when used with this item, because 3% of the time, both effects activate.
+
+Held by poliwhirl or slowbro
+:   Holder evolves into politoed or slowking, respectively, when traded."
+silver-powder,type-enhancement,"Held in battle
+:   Holder's bug-type moves have 1.2� their power.
+"

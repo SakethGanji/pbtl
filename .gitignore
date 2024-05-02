@@ -1,0 +1,4 @@
+/server/node_modules/
+/client/node_modules/
+/client/my-app/public/pokemon_sprites/
+/client/next
